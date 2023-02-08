@@ -2,6 +2,7 @@ html, body {
     margin: 0;
     padding: 0;
     height: 10vh;
+    font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;
 }
 body {
     background-color: rgb(179, 81, 161);
